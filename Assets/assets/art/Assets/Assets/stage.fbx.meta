@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 278302c709e19054f8345daee0abc129
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: fence
+    100002: frount_wall_L
+    100004: frount_wall_R
+    100006: group1
+    100008: pipeA1
+    100010: platform_brige
+    100012: platform_R
+    100014: polySurface111
+    100016: polySurface113
+    100018: polySurface113 1
+    100020: polySurface114
+    100022: polySurface115
+    100024: polySurface116
+    100026: polySurface117
+    100028: polySurface123
+    100030: polySurface124
+    100032: polySurface127
+    100034: polySurface128
+    100036: polySurface129
+    100038: polySurface130
+    100040: polySurface131
+    100042: polySurface132
+    100044: polySurface2
+    100046: polySurface65
+    100048: polySurface66
+    100050: polySurface68
+    100052: polySurface70
+    100054: polySurface74
+    100056: polySurface79
+    100058: polySurface80
+    100060: polySurface82
+    100062: //RootNode
+    100064: staircase3
+    100066: steel_girder3
+    100068: transform69
+    100070: transform70
+    100072: wood_flooring
+    100074: wood_flooring_end
+    100076: wood_flooring_end1
+    100078: back_wall
+    100080: bracket
+    100082: bracket 1
+    100084: door
+    100086: electicPipe
+    100088: electicPipe 1
+    100090: frount_wall
+    100092: L_wall
+    100094: pipe_b
+    100096: pipe_b 1
+    100098: pipeA
+    100100: pipeA 1
+    100102: pipesL
+    100104: pipesR
+    100106: platform_L
+    100108: platfrom_L_end
+    100110: platfrom_R
+    100112: platfrom_R_end
+    100114: R_wall
+    100116: door1
+    400000: fence
+    400002: frount_wall_L
+    400004: frount_wall_R
+    400006: group1
+    400008: pipeA1
+    400010: platform_brige
+    400012: platform_R
+    400014: polySurface111
+    400016: polySurface113
+    400018: polySurface113 1
+    400020: polySurface114
+    400022: polySurface115
+    400024: polySurface116
+    400026: polySurface117
+    400028: polySurface123
+    400030: polySurface124
+    400032: polySurface127
+    400034: polySurface128
+    400036: polySurface129
+    400038: polySurface130
+    400040: polySurface131
+    400042: polySurface132
+    400044: polySurface2
+    400046: polySurface65
+    400048: polySurface66
+    400050: polySurface68
+    400052: polySurface70
+    400054: polySurface74
+    400056: polySurface79
+    400058: polySurface80
+    400060: polySurface82
+    400062: //RootNode
+    400064: staircase3
+    400066: steel_girder3
+    400068: transform69
+    400070: transform70
+    400072: wood_flooring
+    400074: wood_flooring_end
+    400076: wood_flooring_end1
+    400078: back_wall
+    400080: bracket
+    400082: bracket 1
+    400084: door
+    400086: electicPipe
+    400088: electicPipe 1
+    400090: frount_wall
+    400092: L_wall
+    400094: pipe_b
+    400096: pipe_b 1
+    400098: pipeA
+    400100: pipeA 1
+    400102: pipesL
+    400104: pipesR
+    400106: platform_L
+    400108: platfrom_L_end
+    400110: platfrom_R
+    400112: platfrom_R_end
+    400114: R_wall
+    400116: door1
+    2100000: green_door
+    2100002: rust
+    2100004: ConcreteBare_dark
+    2100006: lambert14
+    2100008: wood
+    2100010: lambert12
+    2100012: pipes
+    2100014: melting_rust
+    2100016: lambert16
+    2100018: white_rust
+    2100020: just_someing_cool_for_pipes
+    2100022: gray_bricks
+    2300000: fence
+    2300002: platform_brige
+    2300004: platform_R
+    2300006: polySurface113
+    2300008: polySurface114
+    2300010: polySurface115
+    2300012: polySurface116
+    2300014: polySurface117
+    2300016: polySurface123
+    2300018: polySurface127
+    2300020: polySurface128
+    2300022: polySurface129
+    2300024: polySurface130
+    2300026: polySurface131
+    2300028: polySurface132
+    2300030: polySurface2
+    2300032: polySurface65
+    2300034: polySurface66
+    2300036: polySurface68
+    2300038: polySurface70
+    2300040: polySurface80
+    2300042: polySurface82
+    2300044: staircase3
+    2300046: steel_girder3
+    2300048: wood_flooring
+    2300050: wood_flooring_end
+    2300052: wood_flooring_end1
+    2300054: back_wall
+    2300056: bracket
+    2300058: bracket 1
+    2300060: door
+    2300062: electicPipe
+    2300064: electicPipe 1
+    2300066: frount_wall
+    2300068: L_wall
+    2300070: pipe_b
+    2300072: pipe_b 1
+    2300074: pipeA
+    2300076: pipeA 1
+    2300078: platform_L
+    2300080: platfrom_L_end
+    2300082: platfrom_R
+    2300084: platfrom_R_end
+    2300086: R_wall
+    2300088: door1
+    3300000: fence
+    3300002: platform_brige
+    3300004: platform_R
+    3300006: polySurface113
+    3300008: polySurface114
+    3300010: polySurface115
+    3300012: polySurface116
+    3300014: polySurface117
+    3300016: polySurface123
+    3300018: polySurface127
+    3300020: polySurface128
+    3300022: polySurface129
+    3300024: polySurface130
+    3300026: polySurface131
+    3300028: polySurface132
+    3300030: polySurface2
+    3300032: polySurface65
+    3300034: polySurface66
+    3300036: polySurface68
+    3300038: polySurface70
+    3300040: polySurface80
+    3300042: polySurface82
+    3300044: staircase3
+    3300046: steel_girder3
+    3300048: wood_flooring
+    3300050: wood_flooring_end
+    3300052: wood_flooring_end1
+    3300054: back_wall
+    3300056: bracket
+    3300058: bracket 1
+    3300060: door
+    3300062: electicPipe
+    3300064: electicPipe 1
+    3300066: frount_wall
+    3300068: L_wall
+    3300070: pipe_b
+    3300072: pipe_b 1
+    3300074: pipeA
+    3300076: pipeA 1
+    3300078: platform_L
+    3300080: platfrom_L_end
+    3300082: platfrom_R
+    3300084: platfrom_R_end
+    3300086: R_wall
+    3300088: door1
+    4300000: polySurface2
+    4300002: polySurface70
+    4300004: platform_R
+    4300006: wood_flooring_end
+    4300008: wood_flooring
+    4300010: polySurface65
+    4300012: steel_girder3
+    4300014: fence
+    4300016: platform_brige
+    4300018: polySurface115
+    4300020: polySurface116
+    4300022: polySurface117
+    4300024: staircase3
+    4300026: polySurface128
+    4300028: polySurface82
+    4300030: wood_flooring_end1
+    4300032: polySurface123
+    4300034: polySurface130
+    4300036: polySurface131
+    4300038: polySurface132
+    4300040: polySurface114
+    4300042: polySurface127
+    4300044: polySurface129
+    4300046: polySurface66
+    4300048: polySurface68
+    4300050: polySurface80
+    4300052: polySurface113
+    4300054: door
+    4300056: platfrom_R
+    4300058: platfrom_R_end
+    4300060: pipe_b
+    4300062: pipeA
+    4300064: bracket
+    4300066: electicPipe
+    4300068: R_wall
+    4300070: frount_wall
+    4300072: platfrom_L_end
+    4300074: platform_L
+    4300076: L_wall
+    4300078: back_wall
+    4300080: pipe_b
+    4300082: pipeA
+    4300084: bracket
+    4300086: electicPipe
+    4300088: door1
+    6400000: back_wall
+    6400002: bracket
+    6400004: bracket 1
+    6400006: door
+    6400008: electicPipe
+    6400010: electicPipe 1
+    6400012: fence
+    6400014: frount_wall
+    6400016: L_wall
+    6400018: pipe_b
+    6400020: pipe_b 1
+    6400022: pipeA
+    6400024: pipeA 1
+    6400026: platform_brige
+    6400028: platform_L
+    6400030: platfrom_L_end
+    6400032: platfrom_R
+    6400034: platfrom_R_end
+    6400036: R_wall
+    6400038: staircase3
+    6400040: steel_girder3
+    6400042: wood_flooring
+    6400044: wood_flooring_end
+    6400046: wood_flooring_end1
+    6400048: door1
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 6
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
